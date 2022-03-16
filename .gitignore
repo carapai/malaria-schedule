@@ -41,7 +41,7 @@ page*
 example.json
 hvatAttributes.json
 hvatDataElements.json
-*vat*.csv
+*.csv
 105*
 another*
 test*
