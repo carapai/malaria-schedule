@@ -1,0 +1,49 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+.env
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/logs
+/.idea
+/dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+db.json
+json-server.json
+.vscode/settings.json
+
+yarn.lock
+
+datim.json
+
+arua.json
+test.json
+worker*
+schedules.db
+logs*
+*.excel
+*.xlsx
+page*
+example.json
+hvatAttributes.json
+hvatDataElements.json
+*vat*.csv
+105*
+another*
+test*
+units.csv
+wakiso*
